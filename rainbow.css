@@ -1,5 +1,5 @@
 .theme-dark .container-1ETFDs.unread-2OHH1w:before {
-    background: var(--main-color);
+    background: var(--Main-Colour);
     animation: var(--unread-server-animation) 3s linear infinite;
 }
 
